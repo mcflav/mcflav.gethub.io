@@ -13,7 +13,7 @@
 
 ![Profile](https://github.com/mcflav/mcflav.gethub.io/blob/master/WhiteDressShirt.png)
 [**_My Profile_**]()
-![LatestWorks](https://github.com/mcflav/mcflav.gethub.io/blob/master/Projects.png)
+![LatestWorks](https://github.com/mcflav/mcflav.gethub.io/blob/master/projects.png)
 [**_My Latest Works_**]()
 ![Certifications](https://github.com/mcflav/mcflav.gethub.io/blob/master/Certificate.png)
 [**_Certifications_**]()
