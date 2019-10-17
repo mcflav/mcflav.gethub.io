@@ -11,6 +11,9 @@
 
 
 
+
+## **_My Portfolio_**
+
 ![Profile](https://github.com/mcflav/mcflav.gethub.io/blob/master/WhiteDressShirt.png)
 [**_My Profile_**]()
 ![LatestWorks](https://github.com/mcflav/mcflav.gethub.io/blob/master/projects.png)
@@ -21,9 +24,10 @@
 [**_Resume_**]()
 
 
-You can use the [editor on GitHub](https://github.com/mcflav/mcflav.gethub.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Mission Statement
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+Hi, I'm Michael Coleman and I build websites using Visual Studio asp.net and HTML5. I'm also efficient with building Visual Studio desktop applications that are easy to use and maintain.  I deliver efficient and user-friendly applications, and plan to continue enhancing my professional skills as a software developer. I'm very excited about learning newer technologies and look forward to growing my profession.
 
 ### Markdown
 
