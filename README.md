@@ -17,7 +17,7 @@
 [**_My Latest Works_**]()
 ![Certifications](https://github.com/mcflav/mcflav.gethub.io/blob/master/Certificate.png)
 [**_Certifications_**]()
-![Resume](https://github.com/mcflav/mcflav.gethub.io/blob/master/resume.png)
+![Resume](https://github.com/mcflav/mcflav.gethub.io/blob/master/Resume.png)
 [**_Resume_**]()
 
 
