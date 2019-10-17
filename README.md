@@ -11,7 +11,7 @@
 
 
 
-[**_Certificates **]()
+[**_Certifications_**]()
 ![Certifications](https://github.com/mcflav/mcflav.gethub.io/blob/master/Certificate.png)
 
 
