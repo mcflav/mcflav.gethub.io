@@ -17,7 +17,7 @@
 ![Profile](https://github.com/mcflav/mcflav.gethub.io/blob/master/WhiteDressShirt.png)
 [**_My Profile_**](https://github.com/mcflav/mcflav.gethub.io/blob/master/Profile.md)
 ![LatestWorks](https://github.com/mcflav/mcflav.gethub.io/blob/master/projects.png)
-[**_My Latest Works_**]()
+[**_My Latest Works_**](https://github.com/mcflav/mcflav.gethub.io/blob/master/LatestWorks.md)
 ![Certifications](https://github.com/mcflav/mcflav.gethub.io/blob/master/Certificate.png)
 [**_Certifications_**]()
 ![Resume](https://github.com/mcflav/mcflav.gethub.io/blob/master/Resume.png)
