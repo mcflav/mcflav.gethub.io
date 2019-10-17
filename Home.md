@@ -19,9 +19,9 @@
 ![LatestWorks](https://github.com/mcflav/mcflav.gethub.io/blob/master/projects.png)
 [**_My Latest Works_**](https://github.com/mcflav/mcflav.gethub.io/blob/master/LatestWorks.md)
 ![Certifications](https://github.com/mcflav/mcflav.gethub.io/blob/master/Certificate.png)
-[**_Certifications_**](https://github.com/mcflav/mcflav.gethub.io/blob/master/Certification.md))
+[**_Certifications_**](https://github.com/mcflav/mcflav.gethub.io/blob/master/Certification.md)
 ![Resume](https://github.com/mcflav/mcflav.gethub.io/blob/master/Resume.png)
-[**_Resume_**]()
+[**_Resume_**](https://github.com/mcflav/mcflav.gethub.io/blob/master/Resume.md)
 
 
 ### Mission Statement
