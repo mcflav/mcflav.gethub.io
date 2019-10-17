@@ -4,4 +4,6 @@ I have been employed in the technology industry for more than 15years and have o
 
 In recent years I began my study of Object Oriented Programming and began developing applications in VB.Net and C#. I furthered my skills by studying ASP.Net and began developing Web Applications. I was later given an opportunity to work on a project for my direct manager. I developed a desktop application that automates Oracle backups for our customers using RMAN. The application also configures a standby database for customers who have two oracle database servers and want to set up one as a standby system. I was also handled our Relius Administration install builds in which I did for 2 years. I was in charge of coding the install logic and building the install files for our Relius Administration Desktop and Web products. I also built a website for my sister to assist with the recordkeeping of her baking business. I'm currently working on recreating our company website. My interest and desire to continue learning software development and design never expired after graduating college. I continue to educate myself on newer technologies and common programming languages so that my skills are maintained and effective enough to be a value to those I service.
 
+[**_Home_**](https://github.com/mcflav/mcflav.gethub.io/blob/master/home.md)
+
  
