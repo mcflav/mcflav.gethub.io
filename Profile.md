@@ -1,5 +1,5 @@
-Michael D. Coleman
-Technical Support Analyst / Software Developer
+## **_Michael D. Coleman_** 
+## **_Technical Support Analyst / Software Developer_**
 
 # **_Career Summary And Goals_**
 
