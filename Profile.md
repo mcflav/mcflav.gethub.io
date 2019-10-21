@@ -1,8 +1,6 @@
 ## **_Michael D. Coleman_** 
 ## **_Technical Support Analyst / Software Developer_**
 
-
-
 # **_Career Summary And Goals_**
 
 I have been employed in the technology industry for more than 15years and have over 6 educational years in computer information systems. I'm currently a Technology Support Analyst . I support and give technical assistance to customers who use our desktop (network, standalone, terminal server) and web products. Some of my duties include assisting customers with software downloads and installations, discussing supported hardware and software configurations based on different customers' infrastructure, and troubleshooting technical issues that evolve from our software during and after installation. Our Relius Administration network and web products require customers to have a separate dedicated Oracle Database server. I have the privilege to troubleshoot customer database issues as well. I also work with developers on some software problems that are beyond the scope of technology and are more related to coding bugs. In addition I'm lead support technician to our Relius Connect web service product.
