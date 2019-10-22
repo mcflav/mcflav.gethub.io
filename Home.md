@@ -21,7 +21,7 @@
 ![Certifications](https://github.com/mcflav/mcflav.gethub.io/blob/master/Certificate.png)
 [**_Certifications_**](https://github.com/mcflav/mcflav.gethub.io/blob/master/Certification.md)
 ![Resume](https://github.com/mcflav/mcflav.gethub.io/blob/master/Resume.png)
-[**_Resume_**](https://github.com/mcflav/mcflav.gethub.io/blob/master/Resume.md)
+[**_Resume_**](https://github.com/mcflav/mcflav.gethub.io/blob/master/EntryLevelSoftwareEngineer.doc)
 
 
 ### Mission Statement
