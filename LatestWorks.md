@@ -11,8 +11,7 @@ Technology Used:
 
 I developed this application using Visual Studio 2019 Community (VB .Net). A SQL Server database in SQL Express 2008 R2 is used to host the application's data. Should install in Windows 8 or higher.
 
-![Profile](https://github.com/mcflav/mcflav.gethub.io/blob/master/WhiteDressShirt.png)
-[**_My Profile_**](https://github.com/mcflav/mcflav.gethub.io/blob/master/Profile.md) 
+[**Download Vehicle Maintenance Desktop App Here**](https://github.com/mcflav/mcflav.gethub.io/blob/master/Vehicle Maintenance Install-Project.zip) 
 
 ### **CC's Classic Cakes**
 
