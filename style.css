@@ -10,6 +10,7 @@ h3 {
 section {
   border: 5px solid lightgrey;
   background-color: grey;
+  padding: 10px;
 }
 
 .center {
