@@ -38,3 +38,7 @@ a:active{
      text-decoration: none;
      foreground-color: white;  
 }
+
+img {
+  margin: 25px;
+}
