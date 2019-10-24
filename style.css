@@ -40,10 +40,6 @@ a:active{
      foreground-color: white;  
 }
 
-img {
+div {
   margin: 25px;
-}
-
-p {
-  margin-left: 25px;
 }
