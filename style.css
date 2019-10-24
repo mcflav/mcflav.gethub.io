@@ -47,5 +47,5 @@ a:active{
 }
 
 #latestWorks {
- $("#LatestWorks").css({"position":"relative", "left": "50px"}); 
+ $("#latestWorks").css({"position":"relative", "left": "50px"}); 
 }
