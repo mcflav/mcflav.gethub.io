@@ -26,18 +26,18 @@ a:link{
 
 a:visted{
      text-decoration: none;
-     foreground-color: white;  
+     color: white;  
 }
 
 a:hover{
      text-decoration: underline;
-     foreground-color: white;
+     color: white;
   
 }
 
 a:active{
      text-decoration: none;
-     foreground-color: white;  
+     color: white;  
 }
 
 #profile {
