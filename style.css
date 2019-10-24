@@ -4,6 +4,7 @@ h2 {
 
 section {
   border: 5px solid grey;
+  background-color: grey;
 }
 
 .center {
