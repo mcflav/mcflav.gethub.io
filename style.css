@@ -2,6 +2,10 @@ h2 {
   text-align: center;
 }
 
+section {
+  border: 5px solid grey;
+}
+
 .center {
   display: block;
   margin-left: auto;
