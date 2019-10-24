@@ -7,9 +7,14 @@ h3 {
   margin-left: 25px;
 }
 
-section {
+#portfolio {
   border: 5px solid lightgrey;
   background-color: grey;
+  width: 600px;
+  height: 190px;
+  padding-top: 20px;
+  padding-right: 15px;
+  padding-left: 15px;
 }
 
 .center {
@@ -45,8 +50,12 @@ a:active{
   margin-bottom: 25px;
   padding: 10px;
   float: left;
+  width: 180px;
+  height: 160px;
 }
 
 #latestWorks {
-  float: left; 
+  float: left;
+  width: 180px;
+  height: 160px;
 }
