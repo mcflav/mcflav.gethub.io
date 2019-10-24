@@ -4,6 +4,7 @@ h2 {
 
 h3 {
   color: white;
+  margin-left: 25px;
 }
 
 section {
@@ -43,6 +44,6 @@ img {
   margin: 25px;
 }
 
-a {
- margin: 25px; 
+p {
+  margin-left: 25px;
 }
