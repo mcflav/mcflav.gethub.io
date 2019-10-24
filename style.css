@@ -45,3 +45,7 @@ a:active{
   margin-bottom: 25px;
   padding: 10px;
 }
+
+#latestWorks {
+ $("#LatestWorks").css({"position":"relative", "left": "50px"}); 
+}
