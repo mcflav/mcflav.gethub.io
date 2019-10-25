@@ -46,9 +46,8 @@ a:active{
 }
 
 #profile {
-  margin-left: 25px;
+  margin-left: 15px;
   margin-bottom: 25px;
-  padding: 10px;
   float: left;
   width: 90px;
   height: 90px;
@@ -59,5 +58,5 @@ a:active{
   width: 90px;
   height: 90px;
   position: relative;
-  left: 140px;
+  left: 160px;
 }
