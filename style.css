@@ -58,4 +58,6 @@ a:active{
   float: left;
   width: 90px;
   height: 90px;
+  position: relative;
+  left: 50px;
 }
