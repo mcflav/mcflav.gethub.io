@@ -72,6 +72,7 @@ a:active{
 }
 
 #profile {
+  border: 5px solid #FCD64A;
   margin-left: 15px;
   margin-bottom: 25px;
   float: left;
@@ -80,6 +81,7 @@ a:active{
 }
 
 #latestWorks {
+  border: 5px solid #FCD64A;
   float: left;
   width: 90px;
   height: 90px;
@@ -88,6 +90,7 @@ a:active{
 }
 
 #certifications {
+  border: 5px solid #FCD64A;
   float: left;
   width: 90px;
   height: 90px;
@@ -96,6 +99,7 @@ a:active{
 }
 
 #resume {
+  border: 5px solid #FCD64A;
   float: left;
   width: 90px;
   height: 90px;
