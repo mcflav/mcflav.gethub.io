@@ -1,5 +1,12 @@
 body {
   background-color: #CED6DA;
+  border:2px solid rgba(159, 175, 183, 0.4);
+   margin:0 auto;
+   position:relative;
+   height: 350px;
+   background-image: url('header.png');
+   background-position: center top;
+   background-repeat: no-repeat;
 }
 
 h2 {
