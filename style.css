@@ -68,3 +68,11 @@ a:active{
   position: relative;
   left: 280px;
 }
+
+#resume {
+  float: left;
+  width: 90px;
+  height: 90px;
+  position: relative;
+  left: 350px;
+}
