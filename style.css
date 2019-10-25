@@ -1,6 +1,10 @@
 h2 {
   text-align: center;
   color: #FCD64A;
+  font-size: 48px;
+  font-family: 'Lucida Handwriting', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+  font-weight: normal;
+  font-style: normal;
 }
 
 h3 {
