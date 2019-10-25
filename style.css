@@ -86,7 +86,7 @@ a:active{
   width: 200px;
   height: 200px;
   position: relative;
-  left: 50px;
+  left: 10px;
 }
 
 #certifications {
@@ -95,7 +95,7 @@ a:active{
   width: 200px;
   height: 200px;
   position: relative;
-  left: 100px;
+  left: 40px;
 }
 
 #resume {
@@ -104,5 +104,5 @@ a:active{
   width: 200px;
   height: 200px;
   position: relative;
-  left: 120px;
+  left: 60px;
 }
