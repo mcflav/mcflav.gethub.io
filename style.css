@@ -18,6 +18,15 @@ h2 {
   text-shadow: 1px 0px 2px rgb(23, 23, 23), 1px 0px 2px rgb(23, 23, 23), 0px -1px 2px rgb(23, 23, 23), 0px 1px 2px rgb(23, 23, 23), 0px 0px 12px rgba(0, 0, 0, 0.99);
 }
 
+p {
+  font-size: 120px;
+  font-color: white;
+}
+
+#mission{
+   margin-top: 300px;
+}
+
 #mainPic{
   border: 4px solid #FCD64A;
   border-radius: 5px;
@@ -33,14 +42,6 @@ h2 {
   font-style: normal;
   text-shadow: 1px 0px 2px rgb(23, 23, 23), 1px 0px 2px rgb(23, 23, 23), 0px -1px 2px rgb(23, 23, 23), 0px 1px 2px rgb(23, 23, 23), 0px 0px 12px rgba(0, 0, 0, 0.99);
   color: #FFFFFF;
-}
-
-p {
-  margin-top: 300px;
-  font-size: 120px;
-  font-color: white;
-  
-  
 }
 
 #portfolio {
