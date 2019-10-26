@@ -35,9 +35,10 @@ h2 {
   color: #FFFFFF;
 }
 
-h3 {
-  color: white;
-  margin-left: 25px;
+p {
+  position: relative;
+  right: 20px;
+  
 }
 
 #portfolio {
