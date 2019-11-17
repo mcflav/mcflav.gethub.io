@@ -102,6 +102,7 @@ ul {
 }
 
 ul{
+  border: 5px solid #FCD64A;
   animation: pulse 5s infinite;
 } 
 
