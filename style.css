@@ -28,14 +28,6 @@ ul {
   color: white;
 }
 
-img{
- transition: all 1s; 
-}
-
-img:hover{
- transform:scale(1.1); 
-}
-
 #mission{
    margin-top: 300px;
 }
@@ -113,6 +105,24 @@ img:hover{
   height: 200px;
   position: relative;
   left: 60px;
+}
+
+img{
+ transition: all 1s; 
+ animation: pulse 5s infinite;
+}
+
+@keyframes pulse {
+  0% {
+     border-color: #330000;
+  }
+  100% {
+    border-color: #FCD64A;
+  }
+}
+
+img:hover{
+ transform:scale(1.1); 
 }
 
 .center {
