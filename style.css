@@ -101,7 +101,11 @@ ul {
   animation: pulse 5s infinite;
 }
 
-  
+ul{
+  animation: pulse 5s infinite;
+} 
+
+
 @keyframes pulse {
   0% {
      border-color: #330000;
@@ -140,14 +144,6 @@ ul {
 }
 
 #resume:hover{
-  transform:scale(1.1);
-}
-
-ul{
-  transition: all 1s;
-}
-
-ul:hover{
   transform:scale(1.1);
 }
 
