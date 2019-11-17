@@ -28,6 +28,14 @@ ul {
   color: white;
 }
 
+img{
+ transition: all 1s; 
+}
+
+img:hover{
+ transform:scale(1.1); 
+}
+
 #mission{
    margin-top: 300px;
 }
