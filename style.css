@@ -107,11 +107,10 @@ ul {
   left: 60px;
 }
 
-img{
- transition: all 1s; 
- animation: pulse 5s infinite;
+#mainPic{
+  animation: pulse 5s infinite;
 }
-
+  
 @keyframes pulse {
   0% {
      border-color: #330000;
@@ -121,7 +120,11 @@ img{
   }
 }
 
-img:hover{
+#profile{
+  transition: all 1s; 
+}
+
+#profile:hover{
  transform:scale(1.1); 
 }
 
