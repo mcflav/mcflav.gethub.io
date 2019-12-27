@@ -59,6 +59,9 @@ ul {
   padding-right: 15px;
   padding-left: 15px;
   padding-bottom: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 
