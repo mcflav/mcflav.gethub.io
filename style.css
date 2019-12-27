@@ -165,7 +165,7 @@ ul{
   justify-content: center;
 }
 
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 400px){
 	.containerPortfolio{
 		font-size: 0.5em;
 		padding: 0;
