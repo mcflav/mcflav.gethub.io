@@ -178,6 +178,7 @@ ul{
 
 .containerPortfolio{
    display: flex;
+   margin: 0;
 }
 
 .projects{
