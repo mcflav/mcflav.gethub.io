@@ -167,12 +167,11 @@ ul{
 
 #portfolio{
    display: flex;
-   font-size: 0.7em;
 }
 
 @media only screen and (max-width: 400px){
 	#portfolio{
-		font-size: 0.5em;
+		font-size: small;
 		padding: 0;
 	}
 }
