@@ -165,12 +165,12 @@ ul{
   justify-content: center;
 }
 
-#portfolio{
+.containerPortfolio{
    display: flex;
 }
 
 @media only screen and (max-width: 400px){
-	#portfolio{
+	.containerPortfolio{
 		font-size: small;
 		padding: 0;
 	}
