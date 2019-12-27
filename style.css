@@ -166,9 +166,7 @@ ul{
 }
 
 .containerPortfolio{
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+  
 }
 
 .contact{
