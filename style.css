@@ -159,13 +159,13 @@ ul{
 
 
 
-#container{
+.container{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 
-#contact{
+.contact{
   margin-bottom: 15px;
 }
 
