@@ -61,6 +61,17 @@ ul {
   padding-bottom: 20px;
 }
 
+#portfolio2 {
+  border: 5px solid lightgrey;
+  background-color: grey;
+  width: 910px;
+  height: 650px;
+  padding-top: 20px;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-bottom: 20px;
+}
+
 
 #profile {
   border: 2px solid #FCD64A;
