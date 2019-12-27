@@ -165,6 +165,12 @@ ul{
   justify-content: center;
 }
 
+.containerPortfolio{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 .contact{
   margin-bottom: 50px;
 }
