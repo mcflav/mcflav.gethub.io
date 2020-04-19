@@ -1,6 +1,8 @@
+var resume = getElementById("position");
+var link = getElementById("download");
+resume.onchange = function(){DownloadResume};
+
 function DownloadResume(){
-      var resume = getElementById("position");
-      var link = getElementById("download");
       if(resume == "sftWareDev"){
         link.setAttribute("href", "softwareDeveloper.docx");
       }else if(resume == "frontendDev"){
