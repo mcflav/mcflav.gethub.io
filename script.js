@@ -1,6 +1,7 @@
 var resume = getElementById("position");
 var link = getElementById("download");
-resume.onchange = function(){DownloadResume};
+
+document.getElementById("position").onchange = function() {DownloadResume()};
 
 function DownloadResume(){
       if(resume == "sftWareDev"){
