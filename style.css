@@ -30,6 +30,7 @@ ul {
 }
 
 download,jobs {
+  text-align: center;
   font-size: 20px;
   color: #330000;
   font-weight: bold;
