@@ -29,6 +29,12 @@ ul {
   font-weight: bold;
 }
 
+download,jobs {
+  font-size: 20px;
+  color: #330000;
+  font-weight: bold;
+}
+
 #mission{
    margin-top: 300px;
 }
