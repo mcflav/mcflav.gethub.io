@@ -1,5 +1,5 @@
-var resume = getElementById("position");
-var link = getElementById("download");
+var resume = document.getElementById("position");
+var link = document.getElementById("download");
 window.onload = function(){
       setNewValue();
 }
