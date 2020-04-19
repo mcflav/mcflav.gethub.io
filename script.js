@@ -1,5 +1,8 @@
 var resume = getElementById("position");
 var link = getElementById("download");
+window.onload = function(){
+      setNewValue();
+}
 
 
 function DownloadResume(){
@@ -10,4 +13,8 @@ function DownloadResume(){
       }else if(resume == "backendDev"){
          link.setAttribute("href", "backEndDevloper.docx");   
       }
+}
+
+function setNewValue(){
+ link.setAttribute("href", "softwareDeveloper.docx");     
 }
