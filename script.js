@@ -1,8 +1,5 @@
 var resume = document.getElementById("position");
 var link = document.getElementById("download");
-window.onload = function(){
-      setNewValue();
-}
 
 
 function DownloadResume(){
@@ -15,6 +12,3 @@ function DownloadResume(){
       }
 }
 
-function setNewValue(){
- link.setAttribute("href", "softwareDeveloper.docx");     
-}
