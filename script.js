@@ -8,7 +8,7 @@ function DownloadResume(){
       }else if(resume.value == "frontendDev"){
         link.setAttribute("href", "frontEndDeveloper.docx");    
       }else if(resume.value == "backendDev"){
-         link.setAttribute("href", "backEndDevloper.docx");   
+         link.setAttribute("href", "backEndDeveloper.docx");   
       }
 }
 
