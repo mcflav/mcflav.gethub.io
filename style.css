@@ -40,7 +40,7 @@ ul {
    margin-top: 300px;
 }
 
-#missionStatement{
+#missionStatement, #career1, #career2{
 	text-indent: 1em;
 	margin: auto;
 }
