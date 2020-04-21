@@ -40,6 +40,10 @@ ul {
    margin-top: 300px;
 }
 
+#missionStatement{
+	text-indent: 5em;
+}
+
 #mainPic{
   border: 10px solid #FCD64A;
   border-radius: 5px;
