@@ -41,7 +41,8 @@ ul {
 }
 
 #missionStatement{
-	text-indent: 5em;
+	text-indent: 3em;
+	margin: auto;
 }
 
 #mainPic{
