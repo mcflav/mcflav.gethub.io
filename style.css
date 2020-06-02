@@ -41,6 +41,7 @@ ul {
 }
 
 #missionStatement, #career1, #career2{
+	text-align: justify;
 	text-indent: 1em;
 	margin: auto;
 }
